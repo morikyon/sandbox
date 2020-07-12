@@ -5,9 +5,9 @@ A perfect number is a positive integer that is equal to the sum of its positive 
 # How to use
 ```
 $ rustc main.rs
-$ time ./main
+$ ./main
 ```
 
 # Blog
-I wrote this code in my blog (written in Japanese).  
+I wrote the description about this code in my blog (written in Japanese).  
 https://molybdenum.hatenadiary.com/entry/2020/07/12/184252
