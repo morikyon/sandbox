@@ -15,7 +15,7 @@ fn main() {
     for i in 1.. 10000 {
         let x = divisors(i);
         if (x - i) == i {
-            println!("It's perfect number: {}", i);
+            println!("It's a perfect number: {}", i);
         }
     }
 }
